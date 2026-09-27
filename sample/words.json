@@ -1,0 +1,4 @@
+{
+  "word_error_code": "E_BAD_WORD",
+  "words": ["alpha", "b", "gamma", " delta"]
+}
